@@ -1,0 +1,64 @@
+.app{
+    border: 2px green solid;
+    padding: 20px 3%;
+}
+
+.header{
+    display: flex;
+}
+
+.button{
+    margin: 3% 5% 3% 55%;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.title{
+    padding-left: 5%;
+    font-size: 30px;
+}
+
+.tasks{
+    background-color: rgb(238, 233, 243);
+    padding: 3% 3%;
+}
+.task{
+    background-color: rgb(206, 200, 212);
+    padding-left: 15px;
+}
+
+.task h3{
+    display: flex;
+    align-items: center;
+    justify-content:space-between;
+    padding-right: 10px;
+}
+
+.reminder{
+    border-left: 6px green solid;
+}
+
+.form{
+    background-color: pink;
+    margin: 30px 15%;
+
+}
+div{
+    margin-top: 15px;
+    margin-left: 3%
+}
+label{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.nav{
+    display: flex;
+    justify-content: space-evenly;
+    margin-left: 60%;
+    font-size: 20px;
+}
+
+.owner{
+    text-align: center;
+    margin-top: 10px;
+}

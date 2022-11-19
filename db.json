@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "id": 2,
+      "type": "Meeting with my friends",
+      "time": "feb-2-2022",
+      "reminder": false
+    },
+    {
+      "type": "task two",
+      "time": "date two ",
+      "reminder": true,
+      "id": 3
+    },
+    {
+      "type": "task thereda",
+      "time": "date there",
+      "reminder": true,
+      "id": 4
+    },
+    {
+      "type": "task five",
+      "time": "date four",
+      "reminder": true,
+      "id": 6
+    }
+  ]
+}
